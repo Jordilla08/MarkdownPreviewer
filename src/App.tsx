@@ -25,7 +25,7 @@ You can also make text **bold**... whoa!
 Or _italic_.
 Or... **_both!_**
 
-There's also [links](https://www.freecodecamp.com), and
+There's also [links](https://jordilla.vercel.app/), which is my portfolio, and
 > Block Quotes!
 
 ![React Logo w/ Text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
